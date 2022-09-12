@@ -1,0 +1,7 @@
+  assets:
+    - assets/images/inspired-ui_com.gif
+    - assets/images/360_F_460710131_YkD6NsivdyYsHupNvO3Y8MPEwxTAhORh.png
+    - assets/images/blue.gif
+    - assets/images/realme-x50-5g-wallpaper-full-hd-stock-original-(1)jg6i.jpg
+    - assets/images/png-transparent-chatbot-logo-robotics-robot-electronics-leaf-logo.png
+    - assets/images/HD-wallpaper-samsung-background-blue-edge-gradient-gray-plain-purple-simple-sky.jpg
